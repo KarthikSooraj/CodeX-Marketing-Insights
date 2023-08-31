@@ -4,12 +4,11 @@ This is a Data Analytics project I have done using Power BI as part of [Codebasi
 [Live Dashboard Link](https://www.novypro.com/project/codex-marketing-insights-power-bi)
 
 # Project Overview
-Domain: F & B   Function: Marketing  
+# Domain: F & B   Function: Marketing  
 
 CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
 
-Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. Peter Pandey, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
-
+Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents.
 # Task
 
 - Check the “Primary_Secondary_Insights.pdf” and answer the questions by analyzing the data provided. You can use any tool of your choice (Python, SQL, PowerBI, Tableau, Excel, PowerPoint).
